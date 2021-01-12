@@ -8,22 +8,29 @@
 
 }
 
-#img {
+.img {
     width: auto;
     height: auto;
     border: 1px solid black;
     vertical-align: middle;
-
+    object-fit: cover;
+    display: block;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
 
 #img-caption {
     box-align: center;
-
-
 }
 
 #tribute-info {
-
+  text-align: center;
 
 
 }
@@ -40,4 +47,17 @@
     width: 60%;
     padding: 10px;
     text-align: center;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#image {
+  width: 100%;
+  height: auto;
+  max-width: 625px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
