@@ -1,0 +1,43 @@
+#main {
+
+}
+
+#title {
+    box-align: center;
+
+
+}
+
+#img {
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+    vertical-align: middle;
+
+}
+
+#img-caption {
+    box-align: center;
+
+
+}
+
+#tribute-info {
+
+
+
+}
+
+#tribute-link {
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
